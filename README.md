@@ -1,0 +1,2 @@
+# uglyd
+Ugly PHP daemon
